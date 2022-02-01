@@ -1,0 +1,516 @@
+[33m[nodemon] 2.0.15[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+[Redis] SubClient successfully connected to redis.
+[Redis] PubClient successfully connected to redis.
+[Redis] Successfully subscribed on events: __keyevent@0__:expired
+Messages-API server started at port 5757 in development environment!
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"453580567-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '453580567-1038-staticHelper', result: 0 }
+[Redis] Callback "453580567-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"453580567-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '453580567-1038-staticHelper', result: 0 }
+[Redis] Callback "453580567-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"453580567-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '453580567-1038-staticHelper', result: 0 }
+[Redis] Callback "453580567-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] SubClient successfully connected to redis.
+[Redis] PubClient successfully connected to redis.
+[Redis] Successfully subscribed on events: __keyevent@0__:expired
+[Redis] Expired key callback: {"key":"undefined-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: 'undefined-1038-staticHelper', result: 0 }
+[Redis] Callback "undefined-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"73983779-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '73983779-1038-staticHelper', result: 0 }
+[Redis] Callback "73983779-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"73983779-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '73983779-1038-staticHelper', result: 0 }
+[Redis] Callback "73983779-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"undefined-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: 'undefined-1038-staticHelper', result: 0 }
+[Redis] Callback "undefined-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"979142752-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '979142752-1038-staticHelper', result: 0 }
+[Redis] Callback "979142752-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"70847176-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '70847176-1038-staticHelper', result: 0 }
+[Redis] Callback "70847176-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"389932767-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '389932767-1038-staticHelper', result: 0 }
+[Redis] Callback "389932767-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"390308480-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '390308480-1038-staticHelper', result: 0 }
+[Redis] Callback "390308480-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"467013671-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '467013671-1038-staticHelper', result: 0 }
+[Redis] Callback "467013671-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"467013671-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '467013671-1038-staticHelper', result: 0 }
+[Redis] Callback "467013671-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"468751438-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '468751438-1038-staticHelper', result: 0 }
+[Redis] Callback "468751438-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
+[Redis] Expired key callback: {"key":"548611837-1038","message":"__keyevent@0__:expired"}
+[Redis] { command: 'DEL', key: '548611837-1038-staticHelper', result: 0 }
+[Redis] Callback "548611837-1038" was handled by another instance
